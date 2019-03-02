@@ -2,13 +2,13 @@
   "name": "pagesource-collector-base",
   "version": "1.0.0",
   "description": "page source data collector using selenium",
-  "main": "pagesource-collector-base-app.js",
+  "main": "src/pagesource-collector-base-app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github/rep.git"
+    "url": "https://github.com/Derevi/pagesource-collector-base"
   },
   "keywords": [
     "selenium",
@@ -18,11 +18,11 @@
     "pagesource"
   ],
   "author": "Derevi",
-  "license": "SEE LICENSE IN getLicense",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/github/rep/issues"
+    "url": "https://github.com/Derevi/pagesource-collector-base/issues"
   },
-  "homepage": "https://github.com/github/rep#readme",
+  "homepage": "https://github.com/Derevi/pagesource-collector-base/rep#readme",
   "dependencies": {
     "selenium-webdriver": "^4.0.0-alpha.1"
   }
