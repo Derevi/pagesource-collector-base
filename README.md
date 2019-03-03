@@ -14,6 +14,10 @@ The choosen file name will have a timestamp suffix (before the extension)
 
 The current version does not allow you to change the desired filename outside of changing the source code at the moment.  You can change it by going to the file .\lib\save-pagesource.js and editing the function "newFileName", by changing the argument in  line that has "generateFileName()" to a filename of your choice (currently "TickerSymbol" is in there).
 
+This program has only been tested with Firefox if you have a different browser you can refer to the code I have in my other repository which has code for chrome:
+
+https://github.com/Derevi/web-data-collector-base
+
 
 # Future versions
 
