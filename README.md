@@ -17,5 +17,5 @@ The current version does not allow you to change the desired filename outside of
 
 # Future versions
 
-Although I have a very rough version, for myself, I will eventually edit and upload functionalty that makes this program headless, read each line of a list to collect page sources. Also to make each run parallel.
+Although I have a very rough version for myself, I will eventually edit and upload functionalty that makes this program headless, read each line of a list to collect page sources. Also to make each run parallel.
 
